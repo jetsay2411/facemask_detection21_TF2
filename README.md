@@ -1,7 +1,7 @@
 
 # FaceMaskDetection-TF2-Flask
 
-Hi!, welcome to our repository. This is a fun project developed to get better insights on **Computer Vision** and **Image Classification**. We developed **MobileNetV2** based model to identify if a person is wearing a mask or not. It is a simple web application developed with the help of Flask. The model is **binary classification type** model with classes respectively as **With Mask** or **Without Mask**. The dataset that we used for training the model can be found [here](https://www.kaggle.com/omkargurav/face-mask-dataset?select=data)
+Hi!, welcome to our repository. This is a fun project developed to get better insights on **Computer Vision** and **Image Classification**. We developed **MobileNetV2** based model to identify if a person is wearing a mask or not. It is a simple web application developed with the help of Flask. The model is **binary classification type** model with classes respectively as **With Mask** or **Without Mask**. The dataset that we used for training the model can be found [here](https://www.kaggle.com/face-mask-dataset?select=data)
 
 # Getting Started
 
@@ -18,7 +18,7 @@ Before initializing with this project you must know the following concepts:
  
 ## Setting up the environment
 
-1.  Clone the repository  `git clone https://github.com/Purnay087/FaceMaskDetection-TF2-Flask.git`.
+1.  Clone the repository  `git clone https://github.com/jetsay2411/facemask_detection21-TF2.git`.
 
 2.  Install requirements using  `pip install -r requirements.txt`
 
@@ -54,4 +54,4 @@ If you want a custom dataset for your model follow these steps:-
 
 ***
 
-![Output 3](Output/output3.png)
+
