@@ -55,7 +55,7 @@ tensorboard
 tensorboard-plugin-wit
 tensorflow
 tensorflow-estimator
-termcolor==
+termcolor
 urllib3==1.25.8
 webencodings==0.5.1
 Werkzeug==1.0.1
