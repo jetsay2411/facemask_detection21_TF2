@@ -1,5 +1,5 @@
 mysql-connector-python==8.0.21
 numpy==1.21.4
-opencv-python==4.5.4.58
-pywin32==228
+opencv-python
+pywin32
 WMI==1.5.1
