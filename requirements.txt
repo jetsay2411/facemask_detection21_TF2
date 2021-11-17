@@ -1,5 +1,5 @@
 mysql-connector-python==8.0.21
 numpy==1.21.4
 opencv-python
-pywin32
+tensorflow
 WMI==1.5.1
